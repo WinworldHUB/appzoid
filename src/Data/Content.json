@@ -1,0 +1,561 @@
+{
+  "Logo": "../../assets/images/logo.png",
+  "WebMailAddress": {
+    "title": "Webmail Login",
+    "linkTo": "https://cmx5.my-hosting-panel.com/interface/root#/login"
+  },
+  "TopBarContactNumber": {
+    "title": "Contact us: +91-40-40025535",
+    "linkTo": "tel:+91-40-40025535"
+  },
+  "SocialMediaLinks": [
+    {
+      "icon": "uil-facebook-f",
+      "linkTo": ""
+    },
+    {
+      "icon": "uil-instagram",
+      "linkTo": ""
+    },
+    {
+      "icon": "uil-twitter",
+      "linkTo": ""
+    },
+    {
+      "icon": "uil-linkedin",
+      "linkTo": ""
+    }
+  ],
+  "MainMenu": [
+    {
+      "title": "Home",
+      "linkTo": "/"
+    },
+    {
+      "title": "About Us",
+      "linkTo": "/aboutus"
+    },
+    {
+      "title": "Our Products",
+      "linkTo": "/ourproducts"
+    },
+    {
+      "title": "Our Services",
+      "linkTo": "/ourservices"
+    },
+    {
+      "title": "Contact Us",
+      "linkTo": "/contactus"
+    }
+  ],
+  "HomePage": {
+    "slides": [
+      {
+        "bgImage": "slide-1-1.jpg",
+        "title": "Welcome to Appzoid <br/> Resolution Pvt Ltd",
+        "subTitle": "Specialized in all brand Smart device Service",
+        "cta": {
+          "title": "Request for service",
+          "linkTo": "/ourservices"
+        }
+      },
+      {
+        "bgImage": "slide-1-1.jpg",
+        "title": "Fast &amp; Reliable Service",
+        "subTitle": "Specialized in all brand Smart device Service",
+        "cta": {
+          "title": "Contact Us",
+          "linkTo": "/contactus"
+        }
+      }
+    ],
+    "featuresTitle": "Our Services",
+    "features": [
+      {
+        "icon": "la-wrench",
+        "title": "Honest Services",
+        "description": "We are so confident with our service that if we can’t fix the problem, you don’t pay. All repairs come with a 30 day guarantee",
+        "linkTo": ""
+      },
+      {
+        "icon": "la-cog",
+        "title": "Quick Repair",
+        "description": "Our company is reliable, and our work is trusted. We provide worry-free service you can always count on",
+        "linkTo": ""
+      },
+      {
+        "icon": "la-history",
+        "title": "On Time Delivery",
+        "description": "Choose the delivery method that matches your requirements. We provides fast and quick pick and drop facility",
+        "linkTo": ""
+      }
+    ],
+    "QuickServiceTitle": "Specialist in Quick Service",
+    "QuickServiceSubTitle": "fastest repair service with best price!",
+    "QuickServices": [
+      {
+        "icon": "la-tools",
+        "title": "Mobile Service",
+        "description": "We are one of the leading smart devices service center, we undertake mobile and smart devices service with all major brands.",
+        "linkTo": ""
+      },
+      {
+        "icon": "la-sun",
+        "title": "Smart Devices Service",
+        "description": "Our company offers the most efficient and the greenest repair service for your smart devices with 30 days warranty",
+        "linkTo": ""
+      },
+      {
+        "icon": "la-ban",
+        "title": "Virus Removal",
+        "description": "We are experts in Virus, spyware and other malware removal from your affected mobile / smart devices.",
+        "linkTo": ""
+      },
+      {
+        "icon": "la-lock",
+        "title": "Mobile Security",
+        "description": "We are one of the leading smart devices service center, we undertake mobile and smart devices service with all major brands.",
+        "linkTo": ""
+      },
+      {
+        "icon": "la-broadcast-tower",
+        "title": "Network Services",
+        "description": "Network down? No Internet? We provide reliable and timely service, We solving your networking problem in your Device.",
+        "linkTo": ""
+      },
+      {
+        "icon": "la-cog",
+        "title": "Software Installation",
+        "description": "Operating System Installations / Upgrade Services for your mobile, smart devices, Install setup at your door step.",
+        "linkTo": ""
+      }
+    ],
+    "WhoWeAre": {
+      "title": "Who We Are",
+      "description": "Telangana based Appzoid Resolutions is locked in changing the after deals benefit encounter. We esteem constancy, deftness, adeptness development, agility, supportability and specialised in Mobile Repairs and Services, We repair out of warranty mobile and smart gadgets.",
+      "cta": {
+        "title": "View Services",
+        "linkTo": "/ourservices"
+      },
+      "image": "../assets/images/AboutUs02.jpg"
+    },
+    "CounterNumber": [
+      {
+        "icon": "las la-laugh",
+        "dataTarget": "2750",
+        "counterTitle": "HAPPY CUSTOMERS"
+      },
+      {
+        "icon": "las la-cube",
+        "dataTarget": "1250",
+        "counterTitle": "SMART DEVICES REPAIRED"
+      },
+      {
+        "icon": "las la-mobile",
+        "dataTarget": "950",
+        "counterTitle": "MOBILES REPAIRED"
+      },
+      {
+        "icon": "lab la-windows ",
+        "dataTarget": "450",
+        "counterTitle": "OS INSTALLED"
+      }
+    ],
+    "ComingSoonTitle": "Our Services",
+    "ComingSoonSubTitle": "Click below links to view our Upcoming Projects",
+    "ComingSoon": [
+      {
+        "title": "Buy Back Product",
+        "description": "Write a short description, that will describe the title or something informational and useful.",
+        "icon": "uil  uil-clock-ten",
+        "linkTo": ""
+      },
+      {
+        "title": "Price Product",
+        "description": "Write a short description, that will describe the title or something informational and useful.",
+        "icon": "uil  uil-clock-two",
+        "linkTo": ""
+      },
+      {
+        "title": "Warranty Programme",
+        "description": "Write a short description, that will describe the title or something informational and useful.",
+        "icon": "uil  uil-clock",
+        "linkTo": ""
+      },
+      {
+        "title": "Free Pick and Drop",
+        "description": "Write a short description, that will describe the title or something informational and useful.",
+        "icon": "uil  uil-clock-seven",
+        "linkTo": ""
+      }
+    ],
+    "testimonialTitle": "Testimonials",
+    "testimonialSubTitle": "Here are testimonials from clients that we have worked with and are happy to share their opinion about the process and the results.",
+    "feedbacks": [
+      {
+        "comment": "You guys rock! Thank you for making it painless,have thought of it first. I am really satisfied with my first Smart phone service.",
+        "name": " Akash Singh"
+      },
+      {
+        "comment": "Appzoid did great job with fixing my mobile for a good price. I recommend any body with mobile problems, they will give you excellent service to all his customers.",
+        "name": " Prashant Aher"
+      },
+      {
+        "comment": "I was amazed at the quality of service. I like Appzoid more and more each day because it makes my life a lot easier. Thanks guys, keep up the good work! I recommend Appzoid to everyone.",
+        "name": " Jai Patil"
+      },
+      {
+        "comment": "Keep up the excellent work. Thank you so much for your help. This is simply unbelievable! ",
+        "name": " Om Mishra"
+      }
+    ],
+    "brandImg": [
+      {
+        "imgSrc": "../images/brands/Apple.png"
+      },
+      {
+        "imgSrc": "../images/brands/bajaj-alli.png"
+      },
+      {
+        "imgSrc": "../images/brands/Bajaj-Finserv.png"
+      },
+      {
+        "imgSrc": "../images/brands/lg2.png"
+      },
+      {
+        "imgSrc": "../images/brands/MI.png"
+      },
+      {
+        "imgSrc": "../images/brands/micromax.png"
+      },
+      {
+        "imgSrc": "../images/brands/OnePlus.png"
+      },
+      {
+        "imgSrc": "../images/brands/samsung.png"
+      },
+      {
+        "imgSrc": "../images/brands/vivo_173728.png"
+      }
+    ]
+  },
+  "AboutUs": {
+    "AboutUsBreadCrumbTitle": "About Us",
+    "WhoWeAre": {
+      "title": "We are Leading Company",
+      "description": "We are coherent, consistent, and well-integrated-together with numerous leading organizations which has helps us to provide excellent repair service to our customer and make then worry free about their Smart appliances, mobile devices and all other modern gadgets since 2018.",
+      "cta": {
+        "title": "View Services",
+        "linkTo": "/ourservices"
+      },
+      "image": "../images/AboutUs01.jpg"
+    },
+    "featuresTitle": "Our Services",
+    "features": [
+      {
+        "icon": "las la-sun",
+        "title": "Honest Services",
+        "description": "We can guarantee to give you a FREE honest, friendly advice about any repairs fixes you need.",
+        "linkTo": ""
+      },
+      {
+        "icon": "uil uil-shutter-alt",
+        "title": "Quick Repair",
+        "description": "We value dependability, agility, innovation, simplicity, sustainability.",
+        "linkTo": ""
+      },
+      {
+        "icon": "uil  uil-clock-ten",
+        "title": "On Time Delivery",
+        "description": "We stand out from the crowd, as we understand the value of time of our client and hence provide quick service.",
+        "linkTo": ""
+      },
+      {
+        "icon": "uil uil-bolt",
+        "title": "We are pasionate",
+        "description": "Everything we are doing with enthusiasm as it makes us feel satisfied and cheerful, full of energy which is the vitality of life.",
+        "linkTo": ""
+      }
+    ],
+    "AboutCompanyTitle": "About Company",
+    "AboutCompanyDescription": "Appzoid accepts in keen innovation is the foremost consistent aftersales benefit stage that integrates multiple driving companies to supply palatable repair benefit.",
+    "AboutCompanyCard": [
+      {
+        "title": "Our History",
+        "description": "Leading Mobile Service Company",
+        "imgSrc": "../images/Aboutus-4.jpg",
+        "linkTo": ""
+      },
+      {
+        "title": "Our Mission",
+        "description": "We are Expert in this Field, Fast and Reliable Service.",
+        "imgSrc": "../images/Aboutus-5.jpg",
+        "linkTo": ""
+      },
+      {
+        "title": "Expanding Goal",
+        "description": "Our Expert have been Featured in press numerous times.",
+        "imgSrc": "../images/Aboutus-6.jpg",
+        "linkTo": ""
+      }
+    ],
+    "CounterNumber": [
+      {
+        "icon": "las la-mobile",
+        "dataTarget": "2450",
+        "counterTitle": "MOBILE REPAIRED"
+      },
+      {
+        "icon": "las la-cube",
+        "dataTarget": "1850",
+        "counterTitle": "SMART DEVICES REPAIRED"
+      },
+      {
+        "icon": "las la-user",
+        "dataTarget": "5200",
+        "counterTitle": "SATISFIED CUSTOMERS"
+      },
+      {
+        "icon": "las la-trophy",
+        "dataTarget": "15",
+        "counterTitle": "AWARDS WON"
+      }
+    ],
+    "FoundersAndDirectorsTitle": "Founders and Directors",
+    "FoundersandDirectorsDescription": "Our Energetic Directors and Key Management personal who are always focused.",
+    "CardElement": [
+      {
+        "Name": "Mrs. Tanuja Amrawat",
+        "Post": "Founder and Director",
+        "description": "Mrs. Tanuja Amrawat is the founder of Appzoid who has the work experience of 31 years and had worked with multiple esteemed organizations as of 16 years logistic head for pan India and 15 years in insurance industry mainly specialized in mobile insurance and Affinity Products. Mrs.Tanuja Amrawat is a Graduate and has been working since 1989 with logistic partner at post of In-charge to pan India Head later joined Insurance Industry with ground level post to General manager with esteemed origination and Specialized in Mobile phone Insurance . Also a Ex-member of Business Network International for 3 years where she exchanged the business knowledge with India’s best known Business Tycoons Mrs. Tanuja Amrawat has more number of achievements in the field of Business as well as in Social Services."
+      },
+      {
+        "Name": "Mr. Amit Dubey",
+        "Post": "Chief Technology Officer",
+        "description": "Mrs. Tanuja Amrawat is the founder of Appzoid who has the work experience of 31 years and had worked with multiple esteemed organizations as of 16 years logistic head for pan India and 15 years in insurance industry mainly specialized in mobile insurance and Affinity Products. Mrs.Tanuja Amrawat is a Graduate and has been working since 1989 with logistic partner at post of In-charge to pan India Head later joined Insurance Industry with ground level post to General manager with esteemed origination and Specialized in Mobile phone Insurance . Also a Ex-member of Business Network International for 3 years where she exchanged the business knowledge with India’s best known Business Tycoons Mrs. Tanuja Amrawat has more number of achievements in the field of Business as well as in Social Services."
+      }
+    ],
+    "testimonialTitle": "Testimonials",
+    "testimonialSubTitle": "Here are testimonials from clients that we have worked with and are happy to share their opinion about the process and the results.",
+    "feedbacks": [
+      {
+        "comment": "You guys rock! Thank you for making it painless,have thought of it first. I am really satisfied with my first Smart phone service.",
+        "name": " Akash Singh"
+      },
+      {
+        "comment": "Appzoid did great job with fixing my mobile for a good price. I recommend any body with mobile problems, they will give you excellent service to all his customers.",
+        "name": " Prashant Aher"
+      },
+      {
+        "comment": "I was amazed at the quality of service. I like Appzoid more and more each day because it makes my life a lot easier. Thanks guys, keep up the good work! I recommend Appzoid to everyone.",
+        "name": " Jai Patil"
+      },
+      {
+        "comment": "Keep up the excellent work. Thank you so much for your help. This is simply unbelievable! ",
+        "name": " Om Mishra"
+      }
+    ],
+    "brandImg": [
+      {
+        "imgSrc": "../images/brands/Apple.png"
+      },
+      {
+        "imgSrc": "../images/brands/bajaj-alli.png"
+      },
+      {
+        "imgSrc": "../images/brands/Bajaj-Finserv.png"
+      },
+      {
+        "imgSrc": "../images/brands/lg2.png"
+      },
+      {
+        "imgSrc": "../images/brands/MI.png"
+      },
+      {
+        "imgSrc": "../images/brands/micromax.png"
+      },
+      {
+        "imgSrc": "../images/brands/OnePlus.png"
+      },
+      {
+        "imgSrc": "../images/brands/samsung.png"
+      },
+      {
+        "imgSrc": "../images/brands/vivo_173728.png"
+      }
+    ]
+  },
+  "OurProductsBreadcrumbTitle": "Our Products",
+  "ProductDetails": [
+    {
+      "imgSrc": "../images/Our products/OurProduct1.png",
+      "ProductTitle": "365 DAYS ACCIDENTAL DAMAGE AND LIQUID DAMAGE TERMS AND CONDITIONS",
+      "ProductDescription": "Valid for 12 months ( 365 days )from the date of purchase.",
+      "linkTO": ""
+    },
+    {
+      "imgSrc": "../images/Our products/OurProduct2.jpg",
+      "ProductTitle": "365 DAYS ACCIDENTAL & LIQUID DAMAGE PROGRAMME FAQ",
+      "ProductDescription": "We working hard to build a reputation of customer satisfaction through technical excellence and friendly staff.",
+      "linkTO": ""
+    },
+    {
+      "imgSrc": "../images/Our products/OurProduct3.jpg",
+      "ProductTitle": "180 DAYS ONE TIME SCREEN REPLACEMENT",
+      "ProductDescription": "Valid for180 DAYS ( 6 months) from the date of purchase of device, To avail benefit under this offer contact us within 5 days from the date & time of damage.",
+      "linkTO": ""
+    },
+    {
+      "imgSrc": "../images/Our products/OurProduct4.jpg",
+      "ProductTitle": "365 DAYS ONE TIME SCREEN REPLACEMENT",
+      "ProductDescription": "To avail benefit under this offer, contact us within 5 days from the date & time of damage",
+      "linkTO": ""
+    },
+    {
+      "imgSrc": "../images/Our products/OurProduct5.jpg",
+      "ProductTitle": "HARDWARE UPDATE",
+      "ProductDescription": "We working hard to build a reputation of customer satisfaction through technical excellence and friendly staff.",
+      "linkTO": ""
+    },
+    {
+      "imgSrc": "../images/Our products/OurProduct6.jpg",
+      "ProductTitle": "MOBILE SECURITY SYSTEMS",
+      "ProductDescription": "We working hard to build a reputation of customer satisfaction through technical excellence and friendly staff.",
+      "linkTO": ""
+    }
+  ],
+  "OurServicesBreadCrumbTitle": "Our Services",
+  "OurServicesCard": [
+    {
+      "icon": "las la-shopping-basket",
+      "title": "Buy Back Products",
+      "linkTo": "/Services"
+    },
+    {
+      "icon": "las la-undo-alt",
+      "title": "Price Protect",
+      "linkTo": "/Services"
+    },
+    {
+      "icon": "las la-tag",
+      "title": "Warranty Programme",
+      "linkTo": "/Services"
+    },
+    {
+      "icon": "las la-chevron-circle-down",
+      "title": "Free Pick-up and Drop",
+      "linkTo": "/Services"
+    },
+    {
+      "icon": "lab la-product-hunt",
+      "title": "Wide Good VAS Products",
+      "linkTo": "/Services"
+    },
+    {
+      "icon": "las la-shopping-cart",
+      "title": "E-Commerce",
+      "linkTo": "/Services"
+    },
+    {
+      "icon": "las la-headphones",
+      "title": "Accesories",
+      "linkTo": "/Services"
+    },
+    {
+      "icon": "las la-random",
+      "title": "Distribution",
+      "linkTo": "/Services"
+    },
+    {
+      "icon": "las la-file",
+      "title": "Electronic Retail Programme",
+      "linkTo": "/Services"
+    }
+  ],
+  "BuyBackProducts": {
+    "slides": [
+      {
+        "imgSrc": "buy-back1.jpg",
+        "title": "Buy Back Product",
+        "subTitle": "The Benefit of Buy Back Product scheme can also be availed by Spouse, Children and Parents of Purchaser."
+      },
+      {
+        "imgSrc": "buyback-2.jpg",
+        "title": "Buy Back Product",
+        "subTitle": "Take all reasonable steps to safeguard the equipment. Offer is applicable only for brands such as Apple, Samsung , Vivo , Oppo , Xiaomi One Plus & Realme."
+      },
+      {
+        "imgSrc": "buyback5.jpg",
+        "title": "Buy Back Product",
+        "subTitle": "Benefit of BUY BACK can be obtained at any store or App & Online channel. Cover period is 365 days from the date of Purchase of device."
+      }
+    ]
+  },
+  "FooterLogo": "./../images/logo-light-appzoid.png",
+  "FooterDescription": "Being the best in our field means that we are committed to every project, we have ingenious ideas that become reality and we make every client happy. Appzoid is the coherent, consistent, specialized in all brand smart devices quick repair.",
+  "FooterMenu": [
+    {
+      "title": "Home",
+      "linkTo": "/"
+    },
+    {
+      "title": "About Us",
+      "linkTo": "/aboutus"
+    },
+    {
+      "title": "Out Products",
+      "linkTo": "/ourproducts"
+    },
+    {
+      "title": "Our Services",
+      "linkTo": "/ourservices"
+    },
+    {
+      "title": "Contact Us",
+      "linkTo": "/contactus"
+    }
+  ],
+  "FooterBlogTitle": [
+    {}
+  ],
+  "FooterMediaLinks": [
+    {
+      "icon": "uil uil-facebook-f align-middle",
+      "linkTo": "",
+      "title": ""
+    },
+    {
+      "icon": "uil uil-linkedin",
+      "linkTo": "",
+      "title": "linkedin"
+    },
+    {
+      "icon": "uil uil-instagram align-middle",
+      "linkTo": "",
+      "title": "instagram"
+    },
+    {
+      "icon": "uil uil-twitter align-middle",
+      "linkTo": "",
+      "title": "twitter"
+    },
+    {
+      "icon": "uil uil-envelope align-middle",
+      "linkTo": "",
+      "title": "email"
+    }
+  ],
+  "FooterContactTitle": "CONTACT US",
+  "FooterContactHeading": "Registered office ",
+  "FooterAddress": " 42-1,Roma enclave 3 Near MOUNT CAREMAL GLOBAL HIGH SCHOOL BADANGPET HYDERABAD 500 0058 TELANGANA ",
+  "FooterAddressIcon": "las la-map-marker",
+  "FooterLandlineIcon": "las la-tty",
+  "FooterMobileIcon": "las la-mobile",
+  "FooterLandlineNo": " 04029310098",
+  "FooterMobileNo": " 9052881000",
+  "ContactBreacCrumbTitle": "Contact Us",
+  "ContactPhoneWhatsapp": "+91 9640462345",
+  "ContactPhoneUser": "+91 9052881000",
+  "ContactEmail": "support@appzoid.co.in",
+  "ContactAddress": "No.905, 9th Floor, Raghav Ratna Towers, Chirag ali lane, Abids, Hyderabad, Telangana – 500001"
+}
