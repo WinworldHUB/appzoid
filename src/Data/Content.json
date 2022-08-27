@@ -515,9 +515,7 @@
       "linkTo": "/contactus"
     }
   ],
-  "FooterBlogTitle": [
-    {}
-  ],
+  "FooterBlogTitle": [{}],
   "FooterMediaLinks": [
     {
       "icon": "uil uil-facebook-f align-middle",
@@ -547,7 +545,7 @@
   ],
   "FooterContactTitle": "CONTACT US",
   "FooterContactHeading": "Registered office ",
-  "FooterAddress": " 42-1,Roma enclave 3 Near MOUNT CAREMAL GLOBAL HIGH SCHOOL BADANGPET HYDERABAD 500 0058 TELANGANA ",
+  "FooterAddress": " 42-1, Roma enclave 3, Near MOUNT CAREMAL GLOBAL HIGH SCHOOL BADANGPET, HYDERABAD - 500 0058 TELANGANA ",
   "FooterAddressIcon": "las la-map-marker",
   "FooterLandlineIcon": "las la-tty",
   "FooterMobileIcon": "las la-mobile",
@@ -557,5 +555,5 @@
   "ContactPhoneWhatsapp": "+91 9640462345",
   "ContactPhoneUser": "+91 9052881000",
   "ContactEmail": "support@appzoid.co.in",
-  "ContactAddress": "No.905, 9th Floor, Raghav Ratna Towers, Chirag ali lane, Abids, Hyderabad, Telangana – 500001"
+  "ContactAddress": " 42-1, Roma enclave 3, Near MOUNT CAREMAL GLOBAL HIGH SCHOOL BADANGPET, HYDERABAD - 500 0058 TELANGANA "
 }
